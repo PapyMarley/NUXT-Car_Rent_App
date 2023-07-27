@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f754e1e-2cf0-462d-889e-41ba3daf0868" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Rent_Car_Reservation_Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Rent_Car_Reservation_Service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent_Car_Reservation_Service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Rent_Car_Reservation_Service/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent_Car_User_Service/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Rent_Car_User_Service/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent_Car_User_Service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Rent_Car_User_Service/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent_Car_Vehicle_Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Rent_Car_Vehicle_Service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent_Car_Vehicle_Service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Rent_Car_Vehicle_Service/target/classes/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Rent_Car_Reservation_Service" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Rent_Car_User_Service/README.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Rent_Car_Vehicle_Service/src/main/resources/data.sql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vroom-rental/app.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vroom-rental/components/home/UserList.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vroom-rental/components/home/vehiculeList.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vroom-rental/pages/about.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vroom-rental/pages/index.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vroom-rental/pages/vehicule.vue" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Sh4rsCGkXuhYiy0Pp0qKb5IL91" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/CNA-120/Documents/Starting_Dev_2024-Cormier_Axel/Java_Advanced/SPA_Advanced",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SPA_Advanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SPA_Advanced" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f754e1e-2cf0-462d-889e-41ba3daf0868" name="Changes" comment="" />
+      <created>1689585680665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689585680665</updated>
+      <workItem from="1689585681731" duration="9754000" />
+      <workItem from="1689605441940" duration="409000" />
+      <workItem from="1689669329175" duration="4906000" />
+      <workItem from="1689675403410" duration="6587000" />
+      <workItem from="1689750656516" duration="3700000" />
+      <workItem from="1689755929072" duration="4004000" />
+      <workItem from="1689768181360" duration="593000" />
+      <workItem from="1690186793139" duration="1074000" />
+      <workItem from="1690190016801" duration="8487000" />
+      <workItem from="1690276075846" duration="7256000" />
+      <workItem from="1690362133401" duration="5684000" />
+      <workItem from="1690448901116" duration="1423000" />
+      <workItem from="1690450353530" duration="1274000" />
+      <workItem from="1690451922272" duration="528000" />
+      <workItem from="1690452596263" duration="1930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

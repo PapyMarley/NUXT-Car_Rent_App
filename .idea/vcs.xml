@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Rent_Car_Reservation_Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Rent_Car_User_Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Rent_Car_Vehicle_Service" vcs="Git" />
+  </component>
+</project>

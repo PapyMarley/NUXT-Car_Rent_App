@@ -1,0 +1,25 @@
+body {
+    background-color: #ff811e;
+    color: #000;
+}
+h1, h2 {
+    color: #722ED1;
+}
+button {
+    background-color: #efdbff;
+}
+/* body {
+  colorPrimary: #722ED1;
+  colorSuccess: #722ED1;
+  colorWarning: #c70000;
+  colorError: #F5222D;
+  colorInfo: #F5222D;
+  colorText: #000;
+  colorTextSecondary: #722ED1;
+  colorBorder: #000000;
+  colorBgBase: #ff811e;
+  colorBorderSecondary: #722ED1;
+  colorBgContainer: #efdbff;
+  colorBgElevated: #efdbff;
+  colorBgLayout: #ff811e;
+}*/
